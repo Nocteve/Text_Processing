@@ -1,0 +1,8 @@
+{
+  "editor.fontFamily": "'Fira Code', 'Noto Sans Mono CJK SC', 'Droid Sans Fallback', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.5,
+"editor.fontWeight": "normal",
+"python.REPL.enableREPLSmartSend": false
+}
